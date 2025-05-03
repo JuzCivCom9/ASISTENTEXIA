@@ -1,0 +1,86 @@
+[
+  {
+    "pregunta": "¿Dónde funciona el Juzgado Civil y Comercial N° 9?",
+    "respuesta": "Funciona en Avenida Comisionado Indart 2147/57, San Justo, Provincia de Buenos Aires"
+  },
+  {
+    "pregunta": "¿Cuál es el horario de atención?",
+    "respuesta": "El horario es de lunes a viernes de 8:00 a 14:00 hs."
+  },
+  {
+    "pregunta": "¿Cómo puedo consultar el estado de un expediente?",
+    "respuesta": "Puede consultar el estado del expediente a través de la Mesa de Entradas Virtual provista por SCBA"
+  },
+  {
+    "pregunta": "¿Cómo consulto los saldos de una cuenta judicial?",
+    "respuesta": "A través del Portal de Presentaciones y Notificaciones Electrónicas..."
+  },
+  {
+    "pregunta": "¿Dónde se puede consultar información sobre las subastas judiciales?",
+    "respuesta": "En el sitio de la SCBA: https://www.scba.gov.ar/paginas.asp?id=50473"
+  },
+  {
+    "pregunta": "¿Dónde se puede consultar el valor actual del IUS?",
+    "respuesta": "En Instagram o en https://www.scba.gov.ar/paginas.asp?id=41320"
+  },
+  {
+    "pregunta": "¿Dónde se puede obtener información para abonar la Tasa de Justicia?",
+    "respuesta": "En: https://www.scba.gov.ar/paginas.asp?id=46791"
+  },
+  {
+    "pregunta": "¿Cómo buscar un domicilio electrónico?",
+    "respuesta": "En: https://www.scba.gov.ar/paginas.asp?id=46690"
+  },
+  {
+    "pregunta": "¿Dónde se obtienen los códigos de materias para iniciar un expediente?",
+    "respuesta": "En: https://www.scba.gov.ar/paginas.asp?id=41329"
+  },
+  {
+    "pregunta": "¿Qué requisitos debe tener un Oficio Ley 22.172?",
+    "respuesta": "1) Nombre del Juez... 2) Secretaria... etc."
+  },
+  {
+    "pregunta": "¿Cómo debe confeccionarse una cédula?",
+    "respuesta": "Debe ser clara, precisa, con datos del juzgado y destinatario."
+  },
+  {
+    "pregunta": "¿Qué documentación debe presentarse para iniciar una sucesión?",
+    "respuesta": "1) Partida de defunción, 2) vínculo, 3) domicilio..."
+  },
+  {
+    "pregunta": "¿Puedo consultar expedientes en formato papel?",
+    "respuesta": "No, el juzgado es 100% digital."
+  },
+  {
+    "pregunta": "¿Exigen informe de cesión e inhibición del RPI por automotor?",
+    "respuesta": "No, solo el del Registro de la Propiedad Automotor."
+  },
+  {
+    "pregunta": "¿Qué valuación fiscal aceptan para automotores municipalizados?",
+    "respuesta": "Valuación impositiva o publicaciones especializadas."
+  },
+  {
+    "pregunta": "¿Puedo hacer peticiones por mail?",
+    "respuesta": "No, sólo vía presentación electrónica."
+  },
+  {
+    "pregunta": "¿Cómo sé si un instrumento fue librado?",
+    "respuesta": "Ver en el portal. Si fue librado, hay constancia en el expediente."
+  },
+  {
+    "pregunta": "Tengo audiencia virtual y no recibí el link",
+    "respuesta": "Está en la providencia, no se envía por mail."
+  },
+  {
+    "pregunta": "¿Cómo consulto un expediente?",
+    "respuesta": "En Mesa de Entradas o mediante SADYP por Zoom de 9 a 13 hs."
+  },
+  {
+    "pregunta": "¿Debo consentir una transferencia judicial?",
+    "respuesta": "Sí, salvo excepciones (honorarios, pago, herencia firme)."
+  },
+  {
+    "pregunta": "¿Puedo hacer la nacionalización en este juzgado?",
+    "respuesta": "No, debe hacerse en juzgado federal. Ver: https://www.pjn.gov.ar/guia"
+  }
+]
